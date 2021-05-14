@@ -1,4 +1,4 @@
-package First20PrimeNumbers;
+package _06_BT_First20PrimeNumbers;
 
 import java.util.Scanner;
 

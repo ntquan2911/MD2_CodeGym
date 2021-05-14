@@ -1,4 +1,4 @@
-package CreatMenu;
+package _04_TH_CreatMenu;
 
 import java.util.Scanner;
 

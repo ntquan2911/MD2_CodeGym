@@ -1,4 +1,4 @@
-package PrimeNumbersUnder100;
+package _07_BT_PrimeNumbersUnder100;
 
 public class PrimeNumbersUnder100 {
     public static void main(String[] args) {

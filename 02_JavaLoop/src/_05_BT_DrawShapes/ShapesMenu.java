@@ -1,4 +1,4 @@
-package DrawShapes;
+package _05_BT_DrawShapes;
 
 import java.util.Scanner;
 

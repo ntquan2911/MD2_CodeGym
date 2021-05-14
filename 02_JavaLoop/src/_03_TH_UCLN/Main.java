@@ -1,4 +1,4 @@
-package UCLN;
+package _03_TH_UCLN;
 
 import java.util.Scanner;
 
