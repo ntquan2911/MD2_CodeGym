@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="308e3e26-9a68-4b94-ab99-dab50423eb63" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../04_OOP/src/_01_TH_Rectangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_OOP/src/_01_TH_Rectangle/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_OOP/src/_03_BT_StopWatch/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_OOP/src/_03_BT_StopWatch/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_OOP/src/_04_BT_Fan/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04_OOP/src/_04_BT_Fan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_AccessModifier/src/_01_TH_StaticMethod/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_AccessModifier/src/_01_TH_StaticMethod/TestStaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_AccessModifier/src/_02_TH_StaticProperties/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_AccessModifier/src/_02_TH_StaticProperties/TestStaticProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05_AccessModifier/src/_03_BT_AccessModifier/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/01_Introduction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/01_Introduction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/ReadNumber/ReadNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/ReadNumber/ReadNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_01_SystemTime/SystemTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_01_SystemTime/SystemTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_02_VariableDatatype/VariableDatatype.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_02_VariableDatatype/VariableDatatype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_03_Operators/Operators.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_03_Operators/Operators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_04_LinearEquationResolver/LinearEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_04_LinearEquationResolver/LinearEquation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_05_DayOfMonth/DayOfMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_05_DayOfMonth/DayOfMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_06_LeapYear/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_06_LeapYear/LeapYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_07_BMI/BMI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_07_BMI/BMI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_08_Greeting/Greeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/out/production/01_Introduction/_08_Greeting/Greeting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/src/ReadNumber/ReadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/src/ReadNumber/ReadNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/src/_01_SystemTime/SystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/src/_01_SystemTime/SystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/src/_02_VariableDatatype/VariableDatatype.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/src/_02_VariableDatatype/VariableDatatype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/src/_03_Operators/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/src/_03_Operators/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/src/_04_LinearEquationResolver/LinearEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/src/_04_LinearEquationResolver/LinearEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/src/_05_DayOfMonth/DayOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/src/_05_DayOfMonth/DayOfMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/src/_06_LeapYear/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/src/_06_LeapYear/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/src/_07_BMI/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/src/_07_BMI/BMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Introduction/src/_08_Greeting/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Introduction/src/_08_Greeting/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/02_JavaLoop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/02_JavaLoop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/CreatMenu/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/CreatMenu/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/DrawShapes/ShapesMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/DrawShapes/ShapesMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/First20PrimeNumbers/First20PrimeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/First20PrimeNumbers/First20PrimeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/InterestCalculator/Interest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/InterestCalculator/Interest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/PrimeNumberTest/PrimNumberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/PrimeNumberTest/PrimNumberTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/UCLN/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/out/production/02_JavaLoop/UCLN/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/src/_01_TH_PrimNumberTest/PrimNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/src/_01_TH_PrimNumberTest/PrimNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/src/_02_TH_InterestCalculator/Interest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/src/_02_TH_InterestCalculator/Interest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/src/_03_TH_UCLN/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/src/_03_TH_UCLN/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/src/_04_TH_CreatMenu/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/src/_04_TH_CreatMenu/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/src/_05_BT_DrawShapes/ShapesMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/src/_05_BT_DrawShapes/ShapesMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/src/_06_BT_First20PrimeNumbers/First20PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/src/_06_BT_First20PrimeNumbers/First20PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JavaLoop/src/_07_BT_PrimeNumbersUnder100/PrimeNumbersUnder100.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JavaLoop/src/_07_BT_PrimeNumbersUnder100/PrimeNumbersUnder100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/03_ArraysAndMethods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/03_ArraysAndMethods.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_01_TH_ReverseArray/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_01_TH_ReverseArray/ReverseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_02_TH_FindElement/FindElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_02_TH_FindElement/FindElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_03_TH_FindMaxValue/FindMaxValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_03_TH_FindMaxValue/FindMaxValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_04_TH_Temperature/Temperature.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_04_TH_Temperature/Temperature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_05_TH_FindMinValue/FindMinValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_05_TH_FindMinValue/FindMinValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_06_BT_DeleteElement/DeleteElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_06_BT_DeleteElement/DeleteElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_07_BT_AddElement/AddElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/out/production/03_ArraysAndMethods/_07_BT_AddElement/AddElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_01_TH_ReverseArray/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_01_TH_ReverseArray/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_02_TH_FindElement/FindElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_02_TH_FindElement/FindElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_03_TH_FindMaxValue/FindMaxValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_03_TH_FindMaxValue/FindMaxValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_04_TH_Temperature/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_04_TH_Temperature/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_05_TH_FindMinValue/FindMinValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_05_TH_FindMinValue/FindMinValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_06_BT_DeleteElement/DeleteElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_06_BT_DeleteElement/DeleteElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_07_BT_AddElement/AddElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_07_BT_AddElement/AddElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_08_BT_MergeArray/MergeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_08_BT_MergeArray/MergeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_09_BT_FindMax2dArray/FindMax2d.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_09_BT_FindMax2dArray/FindMax2d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_10_BT_CountStudent/CountStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03_ArraysAndMethods/src/_10_BT_CountStudent/CountStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07_Abstract_Interface" beforeDir="false" afterPath="$PROJECT_DIR$/../07_Abstract_Interface" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/_01_TH_Rectangle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/_01_TH_Rectangle/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/_03_BT_StopWatch/StopWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/_03_BT_StopWatch/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/_04_BT_Fan/Fan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP/_04_BT_Fan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_TH_Rectangle/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_TH_Rectangle/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_BT_StopWatch/StopWatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_BT_StopWatch/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_BT_Fan/Fan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_BT_Fan/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1shbAc3b1OLvKl40C2utrsf3Buw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="308e3e26-9a68-4b94-ab99-dab50423eb63" name="Default Changelist" comment="" />
+      <created>1621327631821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621327631821</updated>
+      <workItem from="1621327632984" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
