@@ -6,9 +6,9 @@ public class VehicleManagement {
 
     public VehicleManagement() {
         this.vehicleList = new ArrayList<>();
-        this.vehicleList.add(new Car("Quan Nguyen","Vinfast", "LuxA", 2020, "silver", 1300, 5, "sedan"));
-        this.vehicleList.add(new Motorbike("Quan Nguyen" ,"BMW", "C400GT", 2020, "grey", 320, "350cc"));
-        this.vehicleList.add(new Car("Minh nhua","Mercedes", "G63AMG", 2020, "white", 12000, 5, "SUV"));
+        this.vehicleList.add(new Car("Quan Nguyen","Vinfast", "LuxA", "2020", "silver", 1300, 5, "sedan"));
+        this.vehicleList.add(new Motorbike("Quan Nguyen" ,"BMW", "C400GT", "2020", "grey", 320, "350cc"));
+        this.vehicleList.add(new Car("Minh nhua","Mercedes", "G63AMG", "2020", "white", 12000, 5, "SUV"));
     }
 
     public String showInfo() {
@@ -21,7 +21,18 @@ public class VehicleManagement {
 
     public void add (Vehicle vehicle) {
         this.vehicleList.add(vehicle);
+        System.out.println("Added !");
     }
+
+//    public void addMotorbike (Vehicle motorbike) {
+//        this.vehicleList.add(motorbike);
+//        System.out.println("Added new motorbike !");
+//    }
+//
+//    public void addCar (Vehicle car) {
+//        this.vehicleList.add(car);
+//        System.out.println("Addded new car !");
+//    }
 
     public int findByModel (String model) {
         for (int i = 0; i < vehicleList.size(); i++) {
@@ -52,6 +63,11 @@ public class VehicleManagement {
     }
 
     public void remove (String owner) {
-
+        if (findByOwner(owner) == -1) {
+            System.out.println("This owner is not availabe");
+        } else {
+            vehicleList.remove(owner);
+            System.out.println("Removed !");
+        }
     }
 }

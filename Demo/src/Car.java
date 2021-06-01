@@ -1,15 +1,8 @@
-import java.awt.*;
-
 public class Car extends Vehicle {
     private int seat;
     private String type;
 
-    public Car(int seat, String type) {
-        this.seat = seat;
-        this.type = type;
-    }
-
-    public Car(String owner, String mark, String model, int year, String color, double price, int seat, String type) {
+    public Car(String owner, String mark, String model, String year, String color, double price, int seat, String type) {
         super(owner, mark, model, year, color, price);
         this.seat = seat;
         this.type = type;
@@ -34,7 +27,7 @@ public class Car extends Vehicle {
     @Override
     public String toString() {
         return "Car " + super.toString() +
-                ", seat = " + seat +
+                ", seat = '" + seat +
                 ", type = '" + type + '\'' +
                 "} " + "\n";
     }

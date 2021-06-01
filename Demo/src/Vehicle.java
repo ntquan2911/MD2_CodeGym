@@ -2,14 +2,12 @@ public class Vehicle {
     private String owner;
     private String mark;
     private String model;
-    private int year;
+    private String year;
     private String color;
     private double price;
 
-    public Vehicle() {
-    }
 
-    public Vehicle(String owner, String mark, String model, int year, String color, double price) {
+    public Vehicle(String owner, String mark, String model, String year, String color, double price) {
         this.owner = owner;
         this.mark = mark;
         this.model = model;
@@ -42,11 +40,11 @@ public class Vehicle {
         this.model = model;
     }
 
-    public int getYear() {
+    public String getYear() {
         return year;
     }
 
-    public void setYear(int year) {
+    public void setYear(String year) {
         this.year = year;
     }
 
@@ -70,7 +68,7 @@ public class Vehicle {
     public String toString() {
         return "{" +
                 "owner = '" + owner + '\'' +
-                "mark = '" + mark + '\'' +
+                ", mark = '" + mark + '\'' +
                 ", model = '" + model + '\'' +
                 ", year = '" + year + '\'' +
                 ", color = '" + color + '\'' +
