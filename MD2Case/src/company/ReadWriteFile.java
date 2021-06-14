@@ -32,31 +32,31 @@ public class ReadWriteFile<T> {
             e.printStackTrace();
         }
     }
-    public void writeMapToFile(String path, Map<T,T> map){
-        try {
-            FileOutputStream fos = new FileOutputStream(path);
-            ObjectOutputStream oos = new ObjectOutputStream(fos);
-            oos.writeObject(map);
-            fos.close();
-            oos.close();
-        }catch (Exception e){
-            e.printStackTrace();
-        }
-    }
-    public Map<T,T> readMapFromFile(String path) {
-        Map<T,T> map = null;
-        try {
-            FileInputStream fis = new FileInputStream(path);
-            ObjectInputStream ois = new ObjectInputStream(fis);
-            map = (Map<T, T>) ois.readObject();
-            fis.close();
-            ois.close();
-        } catch (EOFException e){
-            System.err.println();
-        }
-        catch (IOException | ClassNotFoundException e) {
-            e.printStackTrace();
-        }
-        return map;
-    }
+//    public void writeMapToFile(String path, Map<T,T> map){
+//        try {
+//            FileOutputStream fos = new FileOutputStream(path);
+//            ObjectOutputStream oos = new ObjectOutputStream(fos);
+//            oos.writeObject(map);
+//            fos.close();
+//            oos.close();
+//        }catch (Exception e){
+//            e.printStackTrace();
+//        }
+//    }
+//    public Map<T,T> readMapFromFile(String path) {
+//        Map<T,T> map = null;
+//        try {
+//            FileInputStream fis = new FileInputStream(path);
+//            ObjectInputStream ois = new ObjectInputStream(fis);
+//            map = (Map<T, T>) ois.readObject();
+//            fis.close();
+//            ois.close();
+//        } catch (EOFException e){
+//            System.err.println();
+//        }
+//        catch (IOException | ClassNotFoundException e) {
+//            e.printStackTrace();
+//        }
+//        return map;
+//    }
 }
