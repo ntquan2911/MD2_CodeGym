@@ -1,8 +1,7 @@
-package company;
+package main;
 
 import java.io.*;
 import java.util.List;
-import java.util.Map;
 
 public class ReadWriteFile<T> {
     public List<T> readDataFromFile(String path) {

@@ -1,4 +1,4 @@
-package company;
+package main;
 
 import employee.*;
 
@@ -14,8 +14,8 @@ public class MainEmployee {
         System.out.printf("%-70s%-50s%-40s%10s" + "\n", "|", "QUẢN LÍ NHÂN VIÊN", "", "|");
         System.out.println("1. Thêm thông tin developer");
         System.out.println("2. Thêm thông tin tester");
-        System.out.println("3. Thêm thông tin ke toan");
-        System.out.println("4. Thêm thông tin bao ve");
+        System.out.println("3. Thêm thông tin kế toán");
+        System.out.println("4. Thêm thông tin bảo vệ");
         System.out.println("5. Hiển thị danh sách nhân viên");
         System.out.println("6. Sửa thông tin nhân viên");
         System.out.println("7. Xóa thông tin nhân viên");
@@ -25,6 +25,7 @@ public class MainEmployee {
 //        System.out.println("11. Đọc ra File");
 //        System.out.println("12. Ghi ra File");
         draw();
+        System.out.println("Your choice: ");
     }
 
     private static void draw() {

@@ -1,6 +1,6 @@
 package employee;
 import java.io.File;
-import company.ReadWriteFile;
+import main.ReadWriteFile;
 import java.util.*;
 import java.util.regex.Pattern;
 
